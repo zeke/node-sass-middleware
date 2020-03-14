@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "mkdirp": "^0.5.1",
-    "node-sass": "^4.13.1"
+    "sass": "^1.26.3"
   },
   "devDependencies": {
     "connect": "^3.7.0",

@@ -4,7 +4,7 @@
 var fs = require('fs'),
     path = require('path'),
     should = require('should'),
-    sass = require('node-sass'),
+    sass = require('sass'),
     request = require('supertest'),
     connect = require('connect'),
     middleware = require('../middleware'),
